@@ -12,7 +12,7 @@ export const MakeOrder = () => {
           Faça o seu pedido agora mesmo!
         </h1>
         <p className='font-lilita text-sm text-white text-center pt-5'>
-          Venha saborear a melhor experiência de hamburguenses do BamBam Burger!
+          Venha saborear a melhor experiência de hambúrgueres e hotdogs do BamBam Burger!
         </p>
 
         <button className='bg-[#FAE4D0] w-full my-4 py-2'>
