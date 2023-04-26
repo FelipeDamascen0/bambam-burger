@@ -1,0 +1,39 @@
+{
+  "Bambam Burger": [
+    {
+      "nome": "Kaliane",
+      "avaliacao": 5.0,
+      "data": "22/04/2023",
+      "comentario": "Maravilhoooo como sempre os hambúrguer"
+    },
+    {
+      "nome": "Ana",
+      "avaliacao": 5.0,
+      "data": "15/04/2023",
+      "comentario": "Lanche muito gostoso e vem quentinho."
+    },
+    
+    {
+      "nome": "Jônatan",
+      "avaliacao": 5.0,
+      "data": "01/04/2023",
+      "comentario": "Uma verdadeira delícia!!! Chegou super rápido e quentinho. 😍👏👏👏👏"
+    },
+
+    {
+      "nome": "Gildecy",
+      "avaliacao": 5.0,
+      "data": "24/03/2023",
+      "comentario": "cachorro quente excelente, muito bom. recomendo."
+    },
+
+
+    {
+      "nome": "Kaliane",
+      "avaliacao": 5.0,
+      "data": "24/02/2023",
+      "comentario": "Maravilhosooooo coomo sempre atendimento mil maravilhas!!! O melhor!!"
+    }
+  ]
+}
+  

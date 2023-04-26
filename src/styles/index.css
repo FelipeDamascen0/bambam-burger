@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.icon{
+  @apply mr-5 flex justify-center items-center py-3
+}
+
+body {
+  background-color: #FAF3F2;
+}
