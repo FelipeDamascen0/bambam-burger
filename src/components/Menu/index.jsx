@@ -72,7 +72,7 @@ export const Menu = () => {
           <p className='font-bold'>O melhor da região!!</p>
           <h1 className='font-bold font-lilita text-4xl'>BAMBAM <span className='text-orange-600'>BURGER</span></h1>
           <button className='bg-red-500 p-3 rounded-lg text-white font-bold mt-3'>
-            Comprar Agora!
+            <a href="https://www.foodbooking.com/ordering/restaurant/menu?company_uid=7cb711ec-96fe-405a-8bb8-9bd12f64aca7&restaurant_uid=c946edf6-2caa-4432-8329-8fb4f2e0ae14&facebook=true">Comprar Agora!</a>
           </button>
         </div>
       </div>
