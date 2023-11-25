@@ -16,7 +16,7 @@ export const MakeOrder = () => {
         </p>
 
         <button className='bg-[#FAE4D0] w-full my-4 py-2'>
-          <a href='' className='font-lilita text-[16px] text-[#F43127] '>
+          <a href='https://www.foodbooking.com/ordering/restaurant/menu?company_uid=7cb711ec-96fe-405a-8bb8-9bd12f64aca7&restaurant_uid=c946edf6-2caa-4432-8329-8fb4f2e0ae14&facebook=true' className='font-lilita text-[16px] text-[#F43127] '>
             FAZER PEDIDO
           </a>
         </button>
