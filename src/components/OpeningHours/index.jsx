@@ -12,8 +12,8 @@ export const OpeningHours = () => {
       </Center>
       <div className='py-4 font-lilita'>
         <h1 className='text-lg text-orange-200'>HORÁRIO DE FUNCIONAMENTO</h1>
-        <p className='text-white'>Terça a Quinta 18:30 as 23:00</p>
-        <p className='text-white'>Sexta, Sábado e Domingo 18:30 as 23:30 </p>
+        <p className='text-white'>Segunda, Terça e Quinta 18:30 as 23:00</p>
+        <p className='text-white'>Sexta, Sábado e Domingo 18:30 as 00:00 </p>
       </div>
     </div>
   );
