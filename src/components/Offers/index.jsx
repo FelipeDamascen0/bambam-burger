@@ -11,7 +11,7 @@ export const Offers = () => {
           Temos vários tipos de pratos para a nossa realeza,
           fique esperto porque temos sempre  promoção!
         </p>
-        <button className='bg-red-500 p-3 rounded-lg text-white font-bold mt-3'>
+        <button className='bg-red-500 p-3 rounded-lg text-white font-bold mt-3' href="https://bambamburger.saipos.com/home">
           Ver Cardápio Completo
         </button>
       </div>
