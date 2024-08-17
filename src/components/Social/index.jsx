@@ -9,7 +9,7 @@ export const Social = () => {
         <div className='flex flex-col justify-center items-center  sm:ml-4'>
           <a
             target="_blank"
-            href="https://www.foodbooking.com/ordering/restaurant/menu?company_uid=7cb711ec-96fe-405a-8bb8-9bd12f64aca7&restaurant_uid=c946edf6-2caa-4432-8329-8fb4f2e0ae14&facebook=true"
+            href="https://bambamburger.saipos.com/home"
           >
             <MdOutlineMenuBook size={50} />
           </a>
