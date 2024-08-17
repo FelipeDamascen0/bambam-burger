@@ -21,7 +21,7 @@ export const Social = () => {
           <div className='flex flex-col justify-center items-center  sm:ml-4'>
             <a 
               target="_blank"
-              href="https://www.ifood.com.br/delivery/brasilia-df/bambam-burger-residencial-santos-dumont-santa-maria/a56b5443-44dc-49b6-b759-d28399880e3f"
+              href="https://bambamburger.saipos.com/home"
             >
               <SiIfood size={50} className='text-red-600'/>
             </a>
