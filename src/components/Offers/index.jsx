@@ -12,7 +12,7 @@ export const Offers = () => {
           fique esperto porque temos sempre  promoção!
         </p>
         <button className='bg-red-500 p-3 rounded-lg text-white font-bold mt-3' href="https://bambamburger.saipos.com/home">
-          Ver Cardápio Completo
+          <a target="_blank" href="https://bambamburger.saipos.com/home">Ver Cardápio Completo</a>
         </button>
       </div>
 
